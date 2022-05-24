@@ -168,6 +168,7 @@
     <Content Include="Views\CV\Education.cshtml" />
     <Content Include="Views\CV\Projects.cshtml" />
     <Content Include="Views\CV\Reference.cshtml" />
+    <Content Include="Views\CV\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
